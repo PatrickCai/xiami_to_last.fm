@@ -1,0 +1,26 @@
+h1{
+	margin-left: -20px;
+	margin-top: 60px;
+	font-size: 70px;
+	font-weight:normal;
+	font-family:Microsoft YaHei,Georgia,serif;
+	color:#CC4037;
+}
+
+p#content{
+	margin-top: 90px;
+	margin-left: -10px;
+    font-size: 35px;
+    font-family: sans-serif;
+}
+
+p#url{
+	visibility: hidden;
+}
+button{
+	margin-top: 120px;
+}
+
+body{
+	background: #FFC19F;
+}

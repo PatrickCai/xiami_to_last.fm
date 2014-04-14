@@ -1,0 +1,42 @@
+h1{
+	margin-left: -20px;
+	margin-top: 60px;
+	font-size: 70px;
+	font-weight:normal;
+	font-family:Microsoft YaHei,Georgia,serif;
+	color:#CC4037;
+
+}
+
+p#content{
+	margin-top: 60px;
+	margin-left: -10px;
+    font-size: 35px;
+    font-family: sans-serif;
+    color:#615400;
+}
+
+input.input-xlarge.focused{
+	width: 510px;
+	height:30px;
+	margin: auto;
+	margin-top: 30px;
+
+}
+
+div.controls{
+	width: 510px;
+	margin-left:;
+}
+
+.form-horizontal .controls{
+	margin: auto;
+}
+button{
+	margin-left: 0px;
+	margin-top: 50px;
+}
+
+body{
+	background: #FFF8C9;
+}

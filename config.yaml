@@ -1,0 +1,37 @@
+name: pylabs
+version: 5
+libraries:
+- name: "django"
+  version: "1.4"
+handlers:
+- url: /static
+  static_dir: scrobble/static
+cron:
+- description: xiami
+  url: run?cron=1
+  schedule: "*/19 2-8 * * *"
+  timezone: Beijing
+- description: xiami
+  url: run?cron=2
+  schedule: "*/8 9-1 * * *"
+  timezone: Beijing
+- description: star 0
+  url: love?cron=0
+  schedule: "1 1 * * *"
+  timezone: Beijing
+- description: star 1
+  url: love?cron=1
+  schedule: "1 2 * * *"
+  timezone: Beijing
+- description: star 2
+  url: love?cron=2
+  schedule: "1 3 * * *"
+  timezone: Beijing
+- description: star 3
+  url: love?cron=3
+  schedule: "1 4 * * *"
+  timezone: Beijing
+- description: star 4
+  url: love?cron=4
+  schedule: "1 5 * * *"
+  timezone: Beijing

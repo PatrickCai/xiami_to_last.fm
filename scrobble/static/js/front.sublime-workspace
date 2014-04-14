@@ -1,0 +1,1492 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"re",
+				"redirect_to"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"al",
+				"alert_callback"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"album",
+				"albums"
+			],
+			[
+				"ge",
+				"get_spawns"
+			],
+			[
+				"ar",
+				"artist"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"track_h",
+				"track_htmls"
+			],
+			[
+				"one_a",
+				"one_art_html"
+			],
+			[
+				"tra",
+				"track_htmls"
+			],
+			[
+				"secon",
+				"second_exist"
+			],
+			[
+				"seco",
+				"second_exist"
+			],
+			[
+				"alb",
+				"albums"
+			],
+			[
+				"track_",
+				"track_number"
+			],
+			[
+				"sec",
+				"second_exist"
+			],
+			[
+				"trac",
+				"track_number"
+			],
+			[
+				"art",
+				"artists"
+			],
+			[
+				"recor",
+				"record_time"
+			],
+			[
+				"reco",
+				"record_time"
+			],
+			[
+				"pr",
+				"port"
+			],
+			[
+				"track",
+				"track_times"
+			],
+			[
+				"minu",
+				"minutes"
+			],
+			[
+				"lis",
+				"list_dirs"
+			],
+			[
+				"li",
+				"list_dirs"
+			],
+			[
+				"min",
+				"minutes"
+			],
+			[
+				"time",
+				"time_now"
+			],
+			[
+				"dat",
+				"datetime"
+			],
+			[
+				"usr",
+				"users"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"user",
+				"user_ID"
+			],
+			[
+				"us",
+				"user_ID"
+			],
+			[
+				"sho",
+				"should_continued"
+			],
+			[
+				"xia",
+				"xiami_url"
+			],
+			[
+				"ap",
+				"api_sig"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"pro",
+				"proxies"
+			],
+			[
+				"cele",
+				"celebrities"
+			],
+			[
+				"au",
+				"audience_number"
+			],
+			[
+				"imag",
+				"image_url"
+			],
+			[
+				"ex",
+				"existing_movies"
+			],
+			[
+				"ce",
+				"celebrities"
+			],
+			[
+				"final_ce",
+				"final_celebrities"
+			],
+			[
+				"page_dir",
+				"page_directors"
+			],
+			[
+				"page_d",
+				"page_directors"
+			],
+			[
+				"p",
+				"proxies_pickle"
+			],
+			[
+				"star_ce",
+				"star_celebrities"
+			],
+			[
+				"recom",
+				"recommend_movies"
+			],
+			[
+				"cl",
+				"class	New Class"
+			],
+			[
+				"page_cele",
+				"page_celebrities"
+			],
+			[
+				"page_ce",
+				"page_celebrity"
+			],
+			[
+				"pag",
+				"page_celebrity"
+			],
+			[
+				"orig",
+				"original_score"
+			],
+			[
+				"or",
+				"original_score"
+			],
+			[
+				"celebr",
+				"celebrities_slice"
+			],
+			[
+				"love",
+				"loved_moview_spawns"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/index.css",
+			"settings":
+			{
+				"buffer_size": 355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.js",
+			"settings":
+			{
+				"buffer_size": 184,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 1068,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "first.js",
+			"settings":
+			{
+				"buffer_size": 1009,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/first.html",
+			"settings":
+			{
+				"buffer_size": 1206,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/first.css",
+			"settings":
+			{
+				"buffer_size": 541,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/second.html",
+			"settings":
+			{
+				"buffer_size": 880,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/second.css",
+			"settings":
+			{
+				"buffer_size": 340,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/third.html",
+			"settings":
+			{
+				"buffer_size": 699,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/third.css",
+			"settings":
+			{
+				"buffer_size": 313,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "second.js",
+			"settings":
+			{
+				"buffer_size": 125,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cai/caiProject/django_project/scrobble/2/mysite/settings.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/pylast.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/exx.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/js/jquery-2.1.0.min.js",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/js/index.js",
+		"/Users/cai/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/cai/caiProject/DouMovies/main.py",
+		"/Users/cai/caiProject/DouMovies/spider/spider.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/js/second.js",
+		"/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/second.html",
+		"/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/index.html",
+		"/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/first.html",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/user.py.dump",
+		"/Users/cai/caiProject/django_project/scrobble/2/userinfo/168488",
+		"/Users/cai/caiProject/daili/daili.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/js/first.js",
+		"/Users/cai/caiProject/django_project/scrobble/2/scrobble/user.py",
+		"/Users/cai/caiProject/exx.py",
+		"/Users/cai/caiProject/pylast.py",
+		"/Users/cai/caiProject/django_project/django_test/xiami/views.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/index.wsgi",
+		"/Users/cai/caiProject/exercise.py",
+		"/Users/cai/caiProject/django_project/scrobble/2/config.yaml",
+		"/Users/cai/caiProject/django_project/scrobble/2/requests/setup.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/views.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/DouMovies/main.py",
+		"/Users/cai/caiProject/django_project/django_test/recommendation/template/index.html",
+		"/Users/cai/caiProject/django_project/django_test/poll/urls.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/models.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/admin.py",
+		"/Users/cai/caiProject/django_project/django_test/uwsgi.log",
+		"/Users/cai/caiProject/django_project/django_test/djangochina_socket.xml",
+		"/Users/cai/caiProject/socket/sender.py",
+		"/Users/cai/caiProject/socket/receiver.py",
+		"/Users/cai/caiProject/django_project/django_test/access.log",
+		"/Users/cai/caiProject/django_project/django_test/error.log",
+		"/usr/local/etc/nginx/nginx.conf",
+		"/Users/cai/caiProject/dns/setup.py",
+		"/Users/cai/caiProject/dns/dnspod.py.dump",
+		"/Users/cai/caiProject/dns/dnspod.py",
+		"/Users/cai/Documents/dnspod.py.dump",
+		"/Users/cai/Documents/setup.py",
+		"/Users/cai/Documents/dnspod.py",
+		"/Users/cai/caiProject/django_project/django_test/django_wsgi.py",
+		"/Users/cai/caiProject/django_project/django_test/index.html",
+		"/usr/local/etc/nginx/uwsgi_params",
+		"/usr/local/etc/nginx/conf.d/nginx.conf",
+		"/usr/local/etc/nginx/nginx.conf.default",
+		"/Users/cai/caiProject/django_project/django_test/nginx.conf",
+		"/Users/cai/caiProject/exercise1.py",
+		"/Users/cai/caiProject/ss.log",
+		"/a.log",
+		"/Users/cai/caiProject/test.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/DouMovies/spider/doulist/doulist.py",
+		"/Users/cai/caiProject/django_project/django_test/poll/DouMovies/__init__.py",
+		"/Users/cai/caiProject/DouMovies/role/comment.py",
+		"/Users/cai/caiProject/DouMovies/spider/comment.py",
+		"/Users/cai/caiProject/DouMovies/main.py.dump",
+		"/Users/cai/caiProject/daili/best_daili",
+		"/Users/cai/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/cai/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/cai/caiProject/DouMovies/spider/loved.py",
+		"/Users/cai/caiProject/DouMovies/spider/merge.py.dump",
+		"/Users/cai/Documents/1",
+		"/Users/cai/caiProject/douYing/douban_movie.py",
+		"/Users/cai/caiProject/DouMovies/yes",
+		"/Users/cai/caiProject/DouMovies/spider/collected.py.dump",
+		"/Users/cai/caiProject/DouMovies/spider/collected.py",
+		"/Users/cai/caiProject/DouMovies/role.sublime-project",
+		"/Users/cai/caiProject/DouMovies/role/celebrity.py",
+		"/Users/cai/caiProject/DouMovies/role/movie.py",
+		"/Users/cai/caiProject/weibo/weibo.py",
+		"/Users/cai/caiProject/DouMovies/doulist/doulist.py",
+		"/Users/cai/caiProject/DouMovies/spider/recommend.py",
+		"/Users/cai/caiProject/reminder/review_list.py.dump",
+		"/Users/cai/caiProject/DouMovies/doulist/__init__.py",
+		"/Users/cai/caiProject/DouMovies/spider/merge.py",
+		"/private/etc/sysctl.conf",
+		"/Users/cai/caiProject/DouMovies/role/__init__.py",
+		"/Users/cai/caiProject/DouMovies/loved_movie.py",
+		"/Users/cai/caiProject/DouMovies/celebrity.py",
+		"/Users/cai/caiProject/DouMovies/spider/__init__.py",
+		"/Users/cai/caiProject/sae/douying/1/index.wsgi",
+		"/Library/Python/2.7/site-packages/django/bin/django-admin.py",
+		"/Users/cai/caiProject/reminder/review_list.xml",
+		"/Users/cai/caiProject/reminder/review.py.dump",
+		"/Users/cai/caiProject/sae/douying/1/douying/douying/settings.py",
+		"/Users/cai/Documents/Django-1.6.2/setup.py",
+		"/Users/cai/caiProject/reminder/review.py",
+		"/Users/cai/caiProject/weibo/42qu-spider/spider/route.py",
+		"/Users/cai/caiProject/weibo/42qu-spider/spider/spider.py",
+		"/Users/cai/caiProject/weibo/42qu-spider/ecocn_org.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"session",
+			"contenteditable",
+			"now",
+			"playing",
+			"album",
+			"playing",
+			"13",
+			"Track",
+			"track",
+			"scrobble",
+			"timedeltahours",
+			"((",
+			"minutestimedelta",
+			"= ",
+			"track_times",
+			"[+",
+			"0",
+			"]) ",
+			"string",
+			"WSError",
+			"scrobble",
+			"scroblle",
+			"P",
+			"scrobble",
+			"_deprecation",
+			"_deprea",
+			"print",
+			"network",
+			"Album",
+			"album",
+			"get_album",
+			"track_nu",
+			"len(track_times)",
+			"track_time",
+			"scrobble",
+			"import",
+			"record",
+			"now_time",
+			"time_now",
+			"songs_",
+			"_get_web_auth_",
+			"_get_web_auth_session_key",
+			"get_web_auth_session_key",
+			"_Request",
+			"get_web_auth_session_key",
+			"get_web_auth_url",
+			"cb",
+			"homepage",
+			"network.homepage",
+			"self.network.homepage",
+			"_get_web_auth_token",
+			"get_web_auth_url",
+			"_get_web_auth_url",
+			"get_web_auth_url",
+			"get_web_auth",
+			" ):",
+			"user_ID",
+			"h",
+			"auth",
+			"ww",
+			", ",
+			"third",
+			"RegExp",
+			"username",
+			"utils",
+			"get_album",
+			"print",
+			"network",
+			"session_key",
+			"session",
+			"getnetwork",
+			"get_network",
+			"get_*_network",
+			"authorization",
+			"AuthenticatedUser",
+			"auth",
+			"execute",
+			"_Request",
+			"scrobble",
+			"Network.scrobble",
+			"your_pass",
+			"api_key",
+			"from",
+			"recommendatio",
+			"recommendation",
+			"username",
+			"/usr",
+			"/usr/local/var/run/nginx.pid",
+			" \")",
+			"all",
+			"import",
+			"False",
+			"the",
+			" ')",
+			"pro",
+			"timeou",
+			"spawns",
+			"1053560",
+			"five_comment",
+			" \n",
+			"usernamemovie_list",
+			", ",
+			"direct",
+			"	\n",
+			"proxies",
+			"good",
+			"d",
+			"goo",
+			" gevent",
+			".\n",
+			"spaw",
+			"class",
+			"__main__",
+			"f11",
+			"f",
+			" )",
+			"star",
+			"good",
+			"e",
+			" \n",
+			"choice(proxies)",
+			"unicomovie",
+			" ]",
+			"goodi",
+			"impor",
+			"page_celebrities",
+			"star_celebrities",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 10,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/index.css",
+					"settings":
+					{
+						"buffer_size": 355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.js",
+					"settings":
+					{
+						"buffer_size": 184,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/index.html",
+					"settings":
+					{
+						"buffer_size": 1068,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								855,
+								855
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "first.js",
+					"settings":
+					{
+						"buffer_size": 1009,
+						"regions":
+						{
+							"bookmarks":
+							{
+								"flags": 144,
+								"icon": "bookmark",
+								"regions":
+								[
+									[
+										872,
+										872
+									]
+								],
+								"scope": "bookmarks"
+							}
+						},
+						"selection":
+						[
+							[
+								878,
+								878
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 26.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/first.html",
+					"settings":
+					{
+						"buffer_size": 1206,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								733,
+								733
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/first.css",
+					"settings":
+					{
+						"buffer_size": 541,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								348,
+								348
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/second.html",
+					"settings":
+					{
+						"buffer_size": 880,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/second.css",
+					"settings":
+					{
+						"buffer_size": 340,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/mysite/templates/third.html",
+					"settings":
+					{
+						"buffer_size": 699,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								602,
+								602
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/cai/caiProject/django_project/scrobble/2/scrobble/static/css/third.css",
+					"settings":
+					{
+						"buffer_size": 313,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								253,
+								253
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "second.js",
+					"settings":
+					{
+						"buffer_size": 125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								125,
+								125
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 151.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/cai/caiProject/DouMovies/role.sublime-project"
+			],
+			[
+				"main",
+				"/Users/cai/caiProject/DouMovies/main.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
